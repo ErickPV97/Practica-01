@@ -5,7 +5,7 @@ int main()
 {
     int a,b,resultado;
 
-    printf(" \n\n Bienvenido!! \n\n");
+    printf(" \n\n Bienvenido al himalalla!! \n\n");
 
     printf("Introduce un numero: ");
 
